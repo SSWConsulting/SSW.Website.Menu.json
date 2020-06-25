@@ -611,7 +611,7 @@
             "children": [
                 {
                     "navigateUrl": "https://rules.ssw.com.au/Pages/default.aspx",
-                    "text": "SSW Rules"
+                    "text": "SSW Rules",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Standards/Default.aspx",
