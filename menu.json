@@ -10,7 +10,7 @@
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "text": "See All Services"
+                            "text": "See All Services",
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx"
                         }
                     ]
