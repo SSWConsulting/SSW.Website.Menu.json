@@ -1,0 +1,133 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1593392752.json", 
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"menuItems"
+	],
+	"properties": {
+		"menuItems": {
+			"$id": "#root/menuItems", 
+			"title": "Menuitems", 
+			"type": "array",
+			"default": [],
+			"items":{
+				"$id": "#root/menuItems/items", 
+				"title": "Items", 
+				"type": "object",
+				"required": [
+					"text"
+				],
+				"properties": {
+					"text": {
+						"$id": "#root/menuItems/items/text", 
+						"title": "Text", 
+						"type": "string",
+						"default": "",
+						"examples": [
+							"Services"
+						],
+						"pattern": "^.*$"
+					},
+					"groupImageUrl": {
+						"$id": "#root/menuItems/items/groupImageUrl", 
+						"title": "Groupimageurl", 
+						"type": "string",
+						"default": "",
+						"examples": [
+							"Menu-Banner-Services.png"
+						],
+						"pattern": "^.*$"
+					},
+					"children": {
+						"$id": "#root/menuItems/items/children", 
+						"title": "Children", 
+						"type": "array",
+						"default": [],
+						"items":{
+							"$id": "#root/menuItems/items/children/items", 
+							"title": "Items", 
+							"type": "object",
+							"required": [
+								"text"
+							],
+							"properties": {
+								"text": {
+									"$id": "#root/menuItems/items/children/items/text", 
+									"title": "Text", 
+									"type": "string",
+									"default": "",
+									"examples": [
+										"All Services"
+									],
+									"pattern": "^.*$"
+								},
+								"navigateUrl": {
+									"$id": "#root/menuItems/items/children/items/navigateUrl", 
+									"title": "Navigateurl", 
+									"type": "string",
+									"default": "",
+									"examples": [
+										"https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.all%3Anot(.decommissioned)"
+									],
+									"pattern": "^.*$"
+								},
+								"navigateUrlOnMobileOnly": {
+									"$id": "#root/menuItems/items/children/items/navigateUrlOnMobileOnly", 
+									"title": "Navigateurlonmobileonly", 
+									"type": "boolean",
+									"examples": [
+										true
+									],
+									"default": true
+								},
+								"children": {
+									"$id": "#root/menuItems/items/children/items/children", 
+									"title": "Children", 
+									"type": "array",
+									"default": [],
+									"items":{
+										"$id": "#root/menuItems/items/children/items/children/items", 
+										"title": "Items", 
+										"type": "object",
+										"required": [
+											"text",
+											"navigateUrl"
+										],
+										"properties": {
+											"text": {
+												"$id": "#root/menuItems/items/children/items/children/items/text", 
+												"title": "Text", 
+												"type": "string",
+												"default": "",
+												"examples": [
+													"See All Services"
+												],
+												"pattern": "^.*$"
+											},
+											"navigateUrl": {
+												"$id": "#root/menuItems/items/children/items/children/items/navigateUrl", 
+												"title": "Navigateurl", 
+												"type": "string",
+												"default": "",
+												"examples": [
+													"https://www.ssw.com.au/ssw/Consulting/Default.aspx"
+												],
+												"pattern": "^.*$"
+											}
+										}
+									}
+
+								}
+							}
+						}
+
+					}
+				}
+			}
+
+		}
+	}
+}
