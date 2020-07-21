@@ -217,6 +217,7 @@
                     "text": "Cloud and Infrastructure",
                     "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.hosting-solutions%3Anot(.decommissioned)",
                     "navigateUrlOnMobileOnly": true,
+                    "breakListBefore": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Azure.aspx",
@@ -273,7 +274,6 @@
                 },
                 {
                     "text": "Book Now",
-                    "breakListBefore": true,
                     "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Consulting.aspx",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
