@@ -177,7 +177,8 @@
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Power-Platform.aspx",
-                            "text": "Power Platform"
+                            "text": "Power Platform",
+                            "cssClass": "Popular"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/WordPress.aspx",
@@ -264,7 +265,8 @@
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Conferencing.aspx",
-                            "text": "Video Conferencing"
+                            "text": "Video Conferencing",
+                            "cssClass": "Popular"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Service-Desk.aspx",
