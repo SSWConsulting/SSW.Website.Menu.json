@@ -720,7 +720,20 @@
                 },
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices.aspx",
-                    "text": "Our Offices"
+                    "text": "Our Offices",
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Sydney.aspx",
+                            "text": "SSW Sydney"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Melbourne.aspx",
+                            "text": "SSW Melbourne"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Brisbane.aspx",
+                            "text": "SSW Brisbane"
+                        }
                 },
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Employment/Employment.aspx",
