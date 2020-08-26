@@ -232,8 +232,7 @@
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Teams.aspx",
-                            "text": "Microsoft Teams with Voice Calling",
-                            "cssClass": "Popular"
+                            "text": "Microsoft Teams with Voice Calling"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Hyper-V.aspx",
