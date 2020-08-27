@@ -270,6 +270,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Service-Desk.aspx",
                             "text": "Service Desk"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Support-Plans.aspx",
+                            "text": "Support Plans"
                         }
                     ]
                 },
