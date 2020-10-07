@@ -232,8 +232,7 @@
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Teams.aspx",
-                            "text": "Microsoft Teams with Voice Calling",
-                            "cssClass": "Popular"
+                            "text": "Microsoft Teams with Voice Calling"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Hyper-V.aspx",
@@ -271,6 +270,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Service-Desk.aspx",
                             "text": "Service Desk"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Support-Plans.aspx",
+                            "text": "Support Plans"
                         }
                     ]
                 },
@@ -364,6 +367,20 @@
                             "target": "_blank",
                             "text": "SmashingBarrier",
                             "cssClass": "ignore"
+                        }                        
+                    ]
+                },
+                {
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Products/Default.aspx#filter=.web-prod%3Anot(.decommissioned)",
+                    "navigateUrlOnMobileOnly": true,
+                    "text": "Apps",
+                    "breakListBefore": true,
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Rewards/",
+                            "target": "_blank",
+                            "text": "SSW Rewards",
+                            "cssClass": "ignore"
                         }
                     ]
                 },
@@ -371,7 +388,6 @@
                     "navigateUrl": "https://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx",
                     "navigateUrlOnMobileOnly": true,
                     "text": "Support",
-                    "breakListBefore": true,
                     "children": [
                         {
                             "navigateUrl": "https://pdi-ssw.zendesk.com/hc",
@@ -424,8 +440,8 @@
                             "text": "Azure SuperPowers Tour"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/NET-Core-Superpowers-Tour.aspx",
-                            "text": ".NET Core SuperPowers Tour"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/NET-5-Superpowers-Tour.aspx",
+                            "text": ".NET 5 SuperPowers Tour"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx",
