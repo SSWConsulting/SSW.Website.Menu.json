@@ -367,6 +367,20 @@
                             "target": "_blank",
                             "text": "SmashingBarrier",
                             "cssClass": "ignore"
+                        }                        
+                    ]
+                },
+                {
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Products/Default.aspx#filter=.web-prod%3Anot(.decommissioned)",
+                    "navigateUrlOnMobileOnly": true,
+                    "text": "Apps",
+                    "breakListBefore": true,
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Rewards/",
+                            "target": "_blank",
+                            "text": "SSW Rewards",
+                            "cssClass": "ignore"
                         }
                     ]
                 },
@@ -374,7 +388,6 @@
                     "navigateUrl": "https://www.ssw.com.au/ssw/Standards/Support/BugReportOrEnhancement.aspx",
                     "navigateUrlOnMobileOnly": true,
                     "text": "Support",
-                    "breakListBefore": true,
                     "children": [
                         {
                             "navigateUrl": "https://pdi-ssw.zendesk.com/hc",
