@@ -749,6 +749,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Brisbane.aspx",
                             "text": "SSW Brisbane"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Newcastle.aspx",
+                            "text": "SSW Newcastle"
                         }
                     ]
                 },
