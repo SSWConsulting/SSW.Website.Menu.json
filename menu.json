@@ -15,7 +15,8 @@
                         },
                         {
                             "text": "Not sure where to go?",
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Are-You-Stuck.aspx"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Are-You-Stuck.aspx",
+                            "cssClass": "featVideo"
                         }
                     ]
                 },
