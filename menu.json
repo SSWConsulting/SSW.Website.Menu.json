@@ -52,6 +52,11 @@
                             "text": "Vue.js"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Bots.aspx",
+                            "text": "Bots",
+                            "cssClass": "Popular"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Database-Development.aspx",
                             "text": "Database Development"
                         },
@@ -128,11 +133,6 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Kubernetes.aspx",
                             "text": "Kubernetes"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Bots.aspx",
-                            "text": "Bots",
-                            "cssClass": "Popular"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/ArtificialIntelligence.aspx",
