@@ -75,25 +75,6 @@
                     ]
                 },
                 {
-                    "text": "Creative Teams",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.design%3Anot(.decommissioned)",
-                    "navigateUrlOnMobileOnly": true,
-                    "children": [
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/UI-UX-Design.aspx",
-                            "text": "UI/UX Design Showcase"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Production",
-                            "text": "Video Production"
-                        },
-                        {
-                            "navigateUrl": "https://sswdigital.com/",
-                            "text": "SSW Digital"
-                        }
-                    ]
-                },
-                {
                     "text": "Consulting",
                     "breakListBefore": true,
                     "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.consulting-services%3Anot(.decommissioned)",
@@ -220,6 +201,25 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Umbraco.aspx",
                             "text": "Umbraco"
+                        }
+                    ]
+                },
+                {
+                    "text": "Creative Teams",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.design%3Anot(.decommissioned)",
+                    "navigateUrlOnMobileOnly": true,
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/UI-UX-Design.aspx",
+                            "text": "UI/UX Design Showcase"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Production",
+                            "text": "Video Production"
+                        },
+                        {
+                            "navigateUrl": "https://sswdigital.com/",
+                            "text": "SSW Digital"
                         }
                     ]
                 },
@@ -701,6 +701,10 @@
                     "cssClass": "featVideo"
                 },
                 {
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Culture",
+                    "text": "Our Culture"
+                },
+                {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Company/History.aspx",
                     "text": "Our History"
                 },
@@ -722,10 +726,6 @@
                     "navigateUrl": "https://blog.ssw.com/",
                     "text": "Blog",
                     "breakListBefore": true
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Culture",
-                    "text": "Our Culture"
                 },
                 {
                     "navigateUrl": "https://www.ssw.com.au/people/",
