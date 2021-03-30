@@ -530,7 +530,7 @@
                             "text": "Upcoming Sessions"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Directions/NeutralBay/",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Sydney/Directions/",
                             "text": "Map to SSW Sydney",
                             "cssClass": "map"
                         }
@@ -563,7 +563,7 @@
                             "text": "Upcoming Sessions"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Directions/Melbourne/",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Melbourne/Directions/",
                             "text": "Map to SSW Melbourne",
                             "cssClass": "map"
                         }
@@ -579,7 +579,7 @@
                             "text": "Upcoming Sessions"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Directions/Brisbane/",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Brisbane/Directions/",
                             "text": "Map to SSW Brisbane",
                             "cssClass": "map"
                         }
@@ -748,24 +748,24 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
                     "text": "Our Offices",
                     "breakListBefore": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Sydney.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Sydney/",
                             "text": "SSW Sydney"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Melbourne.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Melbourne/",
                             "text": "SSW Melbourne"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Brisbane.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Brisbane/",
                             "text": "SSW Brisbane"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Newcastle.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Newcastle/",
                             "text": "SSW Newcastle"
                         }
                     ]
