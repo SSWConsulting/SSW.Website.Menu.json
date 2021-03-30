@@ -27,7 +27,7 @@
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Web-Applications.aspx",
-                            "text": "Web Applications",
+                            "text": "Web Applications + APIs",
                             "cssClass": "Popular"
                         },
                         {
@@ -244,6 +244,14 @@
                             "text": "Microsoft Teams with Voice Calling"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Network-Architecture.aspx",
+                            "text": "Network Architecture"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/PowerShell.aspx",
+                            "text": "PowerShell"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Hyper-V.aspx",
                             "text": "Virtualization with Hyper-V"
                         },
@@ -254,10 +262,6 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vault.aspx",
                             "text": "Vault"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Network-Architecture.aspx",
-                            "text": "Network Architecture"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/BackBlaze-and-CloudBerry-Backup.aspx",
