@@ -623,7 +623,7 @@
                             "text": "Past Sessions"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/UGEvaluationSurvey.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/EvaluationSurvey.aspx",
                             "text": "Evaluation Survey"
                         },
                         {
@@ -639,7 +639,7 @@
             "groupImageUrl": "Menu-Banner-Standards.png",
             "children": [
                 {
-                    "navigateUrl": "https://rules.ssw.com.au/Pages/default.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/rules/",
                     "text": "SSW Rules",
                     "children": [
                         {
@@ -653,27 +653,27 @@
                     "breakListBefore": true,
                     "children": [
                         {
-                            "navigateUrl": "https://rules.ssw.com.au/rules-to-successful-projects",
+                            "navigateUrl": "https://www.ssw.com.au/rules/rules-to-successful-projects",
                             "text": "Rules to Successful Projects"
                         },
                         {
-                            "navigateUrl": "https://rules.ssw.com.au/rules-to-better-email",
+                            "navigateUrl": "https://www.ssw.com.au/rules/rules-to-better-email",
                             "text": "Rules to Better Email"
                         },
                         {
-                            "navigateUrl": "https://rules.ssw.com.au/rules-to-better-google-rankings",
+                            "navigateUrl": "https://www.ssw.com.au/rules/rules-to-better-google-rankings",
                             "text": "Rules to Better Google Rankings"
                         },
                         {
-                            "navigateUrl": "https://rules.ssw.com.au/rules-to-better-interfaces-(general-usability-practices)",
+                            "navigateUrl": "https://www.ssw.com.au/rules/rules-to-better-interfaces-general-usability-practices",
                             "text": "Rules to Better Interfaces"
                         },
                         {
-                            "navigateUrl": "https://rules.ssw.com.au/rules-to-better-code",
+                            "navigateUrl": "https://www.ssw.com.au/rules/rules-to-better-code",
                             "text": "Rules to Better Code"
                         },
                         {
-                            "navigateUrl": "https://rules.ssw.com.au/rules-to-better-scrum-using-azure-devops",
+                            "navigateUrl": "https://www.ssw.com.au/rules/rules-to-better-scrum-using-azure-devops",
                             "text": "Rules to Better Scrum using Azure DevOps"
                         }
                     ]
@@ -732,7 +732,7 @@
                     "text": "Our People"
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Employment/Employment.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Employment/",
                     "text": "Employment Opportunities",
                     "cssClass": "featVideo"
                 },
