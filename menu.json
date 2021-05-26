@@ -146,6 +146,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Educational/",
                             "text": "Educational Industry"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Security.aspx",
+                            "text": "Security"
                         }
                     ]
                 },
