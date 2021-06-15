@@ -644,11 +644,13 @@
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/rules/",
-                    "text": "SSW Rules",
+                    "navigateUrlOnMobileOnly": true,
+                    "text": "All Rules",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Standards/Default.aspx",
-                            "text": "Old SSW Rules"
+                            "navigateUrl": "https://www.ssw.com.au/rules/",
+                            "text": "See all SSW Rules",
+                            "cssClass": "Popular"
                         }
                     ]
                 },
@@ -684,12 +686,18 @@
                 },
                 {
                     "navigateUrl": "https://bettersoftwaresuggestions.com/",
-                    "text": "SSW Better Software Suggestions",
+                    "navigateUrlOnMobileOnly": true,
+                    "text": "Software Suggestions",
                     "breakListBefore": true,
                     "children": [
                         {
+                            "navigateUrl": "https://bettersoftwaresuggestions.com/",
+                            "text": "SSW Better Software Suggestions",
+                            "cssClass": "Popular"
+                        }
+                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/",
-                            "text": "Old SSW Better Software Suggestions"
+                            "text": "Past SSW Better Software Suggestions"
                         }
                     ]
                 }
