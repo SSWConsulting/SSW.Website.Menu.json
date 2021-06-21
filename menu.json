@@ -219,7 +219,7 @@
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Production",
-                            "text": "Video Production"
+                            "text": "Video Production and Live Streaming"
                         },
                         {
                             "navigateUrl": "https://sswdigital.com/",
@@ -503,12 +503,12 @@
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Events/?videoonly=true%26upcomingeventsonly=true",
                     "navigateUrlOnMobileOnly": true,
-                    "text": "Related Services",
+                    "text": "Training Services",
                     "breakListBefore": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Production/",
-                            "text": "Video Recording and Live Streaming"
+                            "text": "Video Production and Live Streaming"
                         },
                         {
                             "navigateUrl": "http://sswchapel.com.au/",
