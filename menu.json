@@ -778,6 +778,10 @@
                     "cssClass": "map",
                     "children": [
                         {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
+                            "text": "All Offices"
+                        }
+                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Sydney/",
                             "text": "SSW Sydney"
                         },
@@ -792,6 +796,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Newcastle/",
                             "text": "SSW Newcastle"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Hangzhou/Directions/",
+                            "text": "SSW Hangzhou"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/ContactUs.aspx",
