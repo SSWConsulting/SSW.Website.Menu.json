@@ -708,51 +708,46 @@
             "groupImageUrl": "Menu-Banner-AboutUs.png",
             "children": [
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
-                    "text": "About Us",
-                    "cssClass": "featVideo"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Culture",
-                    "text": "Our Culture"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/History",
-                    "text": "Our History"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Awards",
-                    "text": "Awards"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/News/",
-                    "text": "News & Press",
+                    "text": "Why Us",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/SSWUpdatePrevious.aspx",
-                            "text": "Newsletters"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
+                            "text": "About Us",
+                            "cssClass": "Popular"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/History",
+                            "text": "Our History"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Awards",
+                            "text": "Awards"
                         }
                     ]
                 },
                 {
-                    "navigateUrl": "https://blog.ssw.com/",
-                    "text": "Blog",
-                    "breakListBefore": true
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/people/",
-                    "text": "Our People"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Employment/",
-                    "text": "Employment Opportunities",
-                    "cssClass": "featVideo"
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
-                    "text": "Our Clients",
-                    "cssClass": "featVideo",
+                    "text": "Who We Are",                
+                    "breakListBefore": true,
                     "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/people/",
+                            "text": "Our People",
+                            "cssClass": "Popular"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Employment/",
+                            "text": "Employment Opportunities",
+                            "cssClass": "Popular"
+                        }
+                    ]
+                },
+                {
+                    "text": "Who We Work With",
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
+                            "text": "Our Clients"
+                        },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Testimonials/default.aspx",
                             "text": "Testimonials"
@@ -760,8 +755,25 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
-                    "text": "Our Offices",
+                    "text": "What We Say",                
+                    "breakListBefore": true,
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/News/",
+                            "text": "News & Press",
+                        },
+                        {
+                            "navigateUrl": "https://blog.ssw.com/",
+                            "text": "Blog"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/SSWUpdatePrevious.aspx",
+                            "text": "Newsletters"
+                        }
+                    ]
+                },
+                {
+                    "text": "Where To Find Us",                
                     "breakListBefore": true,
                     "children": [
                         {
@@ -779,12 +791,13 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Newcastle/",
                             "text": "SSW Newcastle"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/ContactUs.aspx",
+                            "text": "Contact Us",
+                            "cssClass": "Popular"
                         }
                     ]
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/ContactUs.aspx",
-                    "text": "Contact Us"
                 }
             ]
         },
