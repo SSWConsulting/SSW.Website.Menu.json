@@ -775,6 +775,7 @@
                 {
                     "text": "Where To Find Us",                
                     "breakListBefore": true,
+                    "cssClass": "map",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Sydney/",
