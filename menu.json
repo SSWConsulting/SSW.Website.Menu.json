@@ -71,6 +71,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Desktop-Development.aspx",
                             "text": "Windows Desktop Applications"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Azure-Synapse.aspx",
+                            "text": "Azure Synapse"
                         }
                     ]
                 },
