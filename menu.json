@@ -553,7 +553,7 @@
                 },
 
                 {
-                    "navigateUrl": "ttps://www.ssw.com.au/ssw/Live/",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Live/",
                     "navigateUrlOnMobileOnly": true,
                     "text": "Live User Group",
                     "breakListBefore": true,
