@@ -529,93 +529,54 @@
             "groupImageUrl": "Menu-Banner-UserGroup.png",
             "children": [
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Sydney.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/NETUG",
                     "navigateUrlOnMobileOnly": true,
-                    "text": "Sydney .NET UG",
+                    "text": "User Groups",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Sydney.aspx",
-                            "text": "Upcoming Sessions"
+                            "text": "Sydney .NET UG"
                         },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Sydney/Directions/",
-                            "text": "Map to SSW Sydney",
-                            "cssClass": "map"
-                        }
-                    ]
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Canberra.aspx",
-                    "navigateUrlOnMobileOnly": true,
-                    "text": "Canberra .NET UG",
-                    "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Canberra.aspx",
-                            "text": "Upcoming Sessions"
+                            "text": "Canberra .NET UG"
                         },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/UserGroupMapDirectionsCanberra.aspx",
-                            "text": "Map to Microsoft Canberra",
-                            "cssClass": "map"
-                        }
-                    ]
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx",
-                    "navigateUrlOnMobileOnly": true,
-                    "text": "Melbourne .NET UG",
-                    "breakListBefore": true,
-                    "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx",
-                            "text": "Upcoming Sessions"
+                            "text": "Melbourne .NET UG"
                         },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Melbourne/Directions/",
-                            "text": "Map to SSW Melbourne",
-                            "cssClass": "map"
-                        }
-                    ]
-                },
-                {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Brisbane.aspx",
-                    "navigateUrlOnMobileOnly": true,
-                    "text": "Brisbane Full Stack UG",
-                    "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Brisbane.aspx",
-                            "text": "Upcoming Sessions"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Brisbane/Directions/",
-                            "text": "Map to SSW Brisbane",
-                            "cssClass": "map"
+                            "text": "Brisbane Full Stack UG"
                         }
                     ]
                 },
+
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Live/",
                     "navigateUrlOnMobileOnly": true,
-                    "text": "Live UG",
+                    "text": "Live User Group",
                     "breakListBefore": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Live/",
-                            "text": "Sydney .NET UG Live"
+                            "text": "Live UG"
                         }
                     ]
                 },
+                
                 {
                     "navigateUrl": "https://fireusergroup.com/",
                     "navigateUrlOnMobileOnly": true,
-                    "text": "Fire UG - China",
+                    "text": "Fire User Group - China",
                     "children": [
                         {
                             "navigateUrl": "https://fireusergroup.com/",
-                            "text": "Upcoming Sessions"
+                            "text": "Fire UG"
                         }
                     ]
                 },
+                
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/",
                     "navigateUrlOnMobileOnly": true,
