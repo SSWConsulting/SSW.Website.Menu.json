@@ -155,6 +155,10 @@
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Security.aspx",
                             "text": "Security"
                         }
+                         {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Xero-MYOB.aspx",
+                            "text": "Xero & MYOB"
+                        }
                     ]
                 },
                 {
