@@ -268,16 +268,8 @@
                             "text": "Virtualization with Hyper-V"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Data-Protection-Manager.aspx",
-                            "text": "Data Protection Manager"
-                        },
-                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vault.aspx",
                             "text": "Vault"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/BackBlaze-and-CloudBerry-Backup.aspx",
-                            "text": "BackBlaze and CloudBerry Backup"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Backup-Recovery.aspx",
