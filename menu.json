@@ -179,36 +179,8 @@
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/WordPress.aspx",
-                            "text": "WordPress"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Kentico.aspx",
-                            "text": "Kentico"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/DNN-DotNetNuke.aspx",
-                            "text": "DotNetNuke"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Sitefinity.aspx",
-                            "text": "Sitefinity"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Orchard.aspx",
-                            "text": "Orchard"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Sitecore.aspx",
-                            "text": "Sitecore"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Jamstack.aspx",
-                            "text": "Jamstack"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Umbraco.aspx",
-                            "text": "Umbraco"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/ContentManagement.aspx",
+                            "text": "CMS - Content Management Systems"
                         }
                     ]
                 },
