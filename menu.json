@@ -155,6 +155,10 @@
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Xero-MYOB.aspx",
                             "text": "Xero & MYOB"
                         }
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Viva.aspx",
+                            "text": "Microsoft Viva"
+                        }
                     ]
                 },
                 {
