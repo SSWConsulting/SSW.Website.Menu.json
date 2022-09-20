@@ -590,6 +590,8 @@
                 {
                     "text": "Popular Rules",
                     "breakListBefore": true,
+                    "navigateUrl": "https://www.ssw.com.au/rules/rules-to-successful-projects",
+                    "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/rules/rules-to-successful-projects",
@@ -642,6 +644,8 @@
             "children": [
                 {
                     "text": "Why Us",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
+                    "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
@@ -660,6 +664,8 @@
                 },
                 {
                     "text": "Who We Are",                
+                    "navigateUrl": "https://www.ssw.com.au/people/",
+                    "navigateUrlOnMobileOnly": true,
                     "breakListBefore": true,
                     "children": [
                         {
@@ -676,6 +682,8 @@
                 },
                 {
                     "text": "Who We Work With",
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
+                    "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
@@ -690,6 +698,8 @@
                 {
                     "text": "What We Say",                
                     "breakListBefore": true,
+                    "navigateUrl": "https://adamcogan.com/",
+                    "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/News/",
@@ -708,6 +718,8 @@
                 {
                     "text": "Where To Find Us",                
                     "breakListBefore": true,
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
+                    "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
