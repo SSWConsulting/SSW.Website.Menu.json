@@ -393,7 +393,7 @@
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Events/?upcomingeventsonly=false",
                     "navigateUrlOnMobileOnly": true,
-                    "text": "All Events (now online)",
+                    "text": "All Events",
                     "children": [
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
