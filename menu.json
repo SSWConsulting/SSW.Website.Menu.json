@@ -44,12 +44,16 @@
                             "text": "React"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vuejs.aspx",
+                            "text": "Vue.js"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Blazor.aspx",
                             "text": "Blazor"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vuejs.aspx",
-                            "text": "Vue.js"
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Desktop-Development.aspx",
+                            "text": "MAUI (aka Windows Desktop Applications)"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Bots.aspx",
@@ -67,10 +71,6 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Power-BI.aspx",
                             "text": "Power BI"
-                        },
-                        {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Desktop-Development.aspx",
-                            "text": "Windows Desktop Applications"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Azure-Synapse.aspx",
