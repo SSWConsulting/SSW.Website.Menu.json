@@ -56,6 +56,10 @@
                             "text": ".NET MAUI (Windows Desktop Apps)"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Jamstack.aspx",
+                            "text": "Jamstack"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Bots.aspx",
                             "text": "Bots",
                             "cssClass": "Popular"
@@ -696,9 +700,9 @@
                     ]
                 },
                 {
-                    "text": "What We Say",                
+                    "text": "Our Blogs",                
                     "breakListBefore": true,
-                    "navigateUrl": "https://adamcogan.com/",
+                    "navigateUrl": "https://blog.ssw.com.au/",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
@@ -708,6 +712,10 @@
                         {
                             "navigateUrl": "https://blog.ssw.com.au",
                             "text": "Blog"
+                        },
+                        {
+                            "navigateUrl": "https://adamcogan.com",
+                            "text": "Our CEO's Blog"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/SSWUpdatePrevious.aspx",
