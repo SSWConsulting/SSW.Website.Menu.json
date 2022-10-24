@@ -751,7 +751,11 @@
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Hangzhou/Directions/",
-                            "text": "SSW Hangzhou"
+                            "text": "SSW Hangzhou - China"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Strasbourg/Directions/",
+                            "text": "SSW Strasbourg - France"
                         },
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Company/ContactUs.aspx",
