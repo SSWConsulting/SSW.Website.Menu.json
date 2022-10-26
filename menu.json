@@ -162,6 +162,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Viva.aspx",
                             "text": "Microsoft Viva"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Test-Practice.aspx",
+                            "text": "Test Practice"
                         }
                     ]
                 },
