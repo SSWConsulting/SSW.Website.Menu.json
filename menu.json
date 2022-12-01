@@ -439,6 +439,10 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/NET-Superpowers-Tour.aspx",
                             "text": ".NET 7 Superpowers Tour"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Azure-Superskills.aspx",
+                            "text": "Azure Super Skills"
                         }
                     ]
                 },
