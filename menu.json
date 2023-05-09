@@ -85,7 +85,7 @@
                 {
                     "text": "Consulting",
                     "breakListBefore": true,
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.consulting-services%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
@@ -276,11 +276,11 @@
                 },
                 {
                     "text": "Book Now",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Consulting.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Consulting.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting",
                             "text": "Teams of Developers and Scrum Masters"
                         },
                         {
