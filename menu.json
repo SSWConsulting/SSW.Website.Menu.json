@@ -6,78 +6,78 @@
             "children": [
                 {
                     "text": "All Services",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.all%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
                             "text": "See All Services",
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx"
+                            "navigateUrl": "https://www.ssw.com.au/consulting"
                         },
                         {
                             "text": "Not Sure Where to Go?",
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Are-You-Stuck.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/are-you-stuck",
                             "cssClass": "featVideo"
                         }
                     ]
                 },
                 {
                     "text": "Development Teams",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.webdev%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Web-Applications.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/web-applications",
                             "text": "Web Applications + APIs",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Mobile-Application-Development.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/mobile-application-development",
                             "text": "Mobile Apps",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Angular.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/angular",
                             "text": "Angular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/React.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/react",
                             "text": "React"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Vuejs.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/vue",
                             "text": "Vue.js"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Blazor.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/blazor",
                             "text": "Blazor"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Desktop-Development.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/desktop-development",
                             "text": ".NET MAUI (Windows Desktop Apps)"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Jamstack.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/jamstack",
                             "text": "Jamstack"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Bots.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/bots",
                             "text": "Bots",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Database-Development.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/database-development",
                             "text": "Database Development"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Enterprise-Reporting.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/enterprise-reporting",
                             "text": "Enterprise Reporting and BI"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Power-BI.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/power-bi",
                             "text": "Power BI"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Azure-Synapse.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/azure-synapse",
                             "text": "Azure Synapse"
                         }
                     ]
@@ -89,42 +89,42 @@
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Remote-Work.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/remote-work",
                             "text": "Remote work",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Chinafy-App.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/chinafy-app",
                             "text": "Bring your Apps to China",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Strategic-Architecture.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/strategic-architecture",
                             "text": "Strategic Architecture"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Software-Audit.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/software-audit",
                             "text": "Software Auditing",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/ALM-Azure-DevOps.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/alm-azure-devops",
                             "text": "ALM and Azure DevOps/TFS"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/DevOps.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/devops",
                             "text": "DevOps"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Scrum.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/scrum",
                             "text": "Scrum"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Kubernetes.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/kubernetes",
                             "text": "Kubernetes"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/ArtificialIntelligence.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/artificial-intelligence",
                             "text": "AI and Machine Learning"
                         },
                         {
@@ -132,23 +132,23 @@
                             "text": "ChatGPT and GPT-4"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/HoloLens.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/microsoft-hololens",
                             "text": "Microsoft HoloLens"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Smart-Office-and-Smart-Home.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/smart-office-and-smart-home",
                             "text": "Smart Office and Smart Home"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Access-Database-Upsizing.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/access-database-upsizing",
                             "text": "Access Database Upsizing"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Zendesk.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/zendesk",
                             "text": "Zendesk"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/PayPerClick.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/pay-per-click",
                             "text": "Pay Per Click"
                         },
                         {
@@ -156,19 +156,19 @@
                             "text": "Educational Industry"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Security.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/security",
                             "text": "Security"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Xero-MYOB.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/xero-myob",
                             "text": "Xero & MYOB"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Viva.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/microsoft-viva",
                             "text": "Microsoft Viva"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Test-Practice.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/test-practice",
                             "text": "Test Practice"
                         }
                     ]
@@ -176,41 +176,41 @@
                 {
                     "text": "Platform Development",
                     "breakListBefore": true,
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.cms%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/SharePoint.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/sharepoint",
                             "text": "SharePoint",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Dynamics-365.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/dynamics-365",
                             "text": "Dynamics 365",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Power-Platform.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/power-platform",
                             "text": "Power Platform",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/ContentManagement.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/cms",
                             "text": "CMS - Content Management Systems"
                         }
                     ]
                 },
                 {
                     "text": "Creative Teams",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.design%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/UI-UX-Design.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/ui-ux-design",
                             "text": "UI/UX Design Showcase"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Production",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/video-production",
                             "text": "Video Production and Live Streaming"
                         },
                         {
@@ -221,55 +221,55 @@
                 },
                 {
                     "text": "Cloud and Infrastructure",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Default.aspx#filter=.hosting-solutions%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "breakListBefore": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Azure.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/azure",
                             "text": "Microsoft Azure",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Office-365.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/microsoft-365",
                             "text": "Microsoft Office 365",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Microsoft-Teams.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/microsoft-teams",
                             "text": "Microsoft Teams with Voice Calling"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Network-Architecture.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/network-architecture",
                             "text": "Network Architecture"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/PowerShell.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/powershell",
                             "text": "PowerShell"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Hyper-V.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/hyper-v",
                             "text": "Virtualization with Hyper-V"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Intune.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/intune",
                             "text": "Intune"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Backup-Recovery.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/backup-recovery",
                             "text": "Backup / Disaster Recovery"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Conferencing.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/video-conferencing",
                             "text": "Video Conferencing",
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Service-Desk.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/service-desk",
                             "text": "Service Desk"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Support-Plans.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/support-plans",
                             "text": "Support Plans"
                         }
                     ]
@@ -288,7 +288,7 @@
                             "text": "A Trainer"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Mentoring.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/mentoring",
                             "text": "A Mentor"
                         }
                     ]
@@ -495,7 +495,7 @@
                     "breakListBefore": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/Video-Production/",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/video-production",
                             "text": "Video Production and Live Streaming"
                         },
                         {
@@ -738,35 +738,35 @@
                 {
                     "text": "Where To Find Us",                
                     "breakListBefore": true,
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
+                    "navigateUrl": "https://www.ssw.com.au/offices",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/",
+                            "navigateUrl": "https://www.ssw.com.au/offices",
                             "text": "All Offices"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Sydney/",
+                            "navigateUrl": "https://www.ssw.com.au/offices/sydney",
                             "text": "SSW Sydney"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Melbourne/",
+                            "navigateUrl": "https://www.ssw.com.au/offices/melbourne",
                             "text": "SSW Melbourne"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Brisbane/",
+                            "navigateUrl": "https://www.ssw.com.au/offices/brisbane",
                             "text": "SSW Brisbane"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Newcastle/",
+                            "navigateUrl": "https://www.ssw.com.au/offices/newcastle",
                             "text": "SSW Newcastle"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Hangzhou/Directions/",
+                            "navigateUrl": "https://www.ssw.com.au/offices/hangzhou",
                             "text": "SSW Hangzhou - China"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Offices/Strasbourg/Directions/",
+                            "navigateUrl": "https://www.ssw.com.au/offices/strasbourg",
                             "text": "SSW Strasbourg - France"
                         },
                         {
