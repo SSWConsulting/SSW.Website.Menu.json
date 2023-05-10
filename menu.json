@@ -176,7 +176,7 @@
                 {
                     "text": "Platform Development",
                     "breakListBefore": true,
-                    "navigateUrl": "https://www.ssw.com.au/Consulting",
+                    "navigateUrl": "https://www.ssw.com.au/consulting",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
@@ -195,7 +195,7 @@
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/Consulting/cms",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/cms",
                             "text": "CMS - Content Management Systems"
                         }
                     ]
