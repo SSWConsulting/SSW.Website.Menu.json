@@ -419,6 +419,10 @@
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Training-Options.aspx",
                             "text": "Customized Training",
                             "cssClass": "Popular"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "text": "Learn How to be a Fullstack Developer"
                         }
                     ]
                 },
