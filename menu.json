@@ -128,7 +128,7 @@
                             "text": "AI and Machine Learning"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Consulting/GPT.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/consulting/gpt",
                             "text": "ChatGPT and GPT-4"
                         },
                         {
@@ -419,6 +419,10 @@
                             "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Training-Options.aspx",
                             "text": "Customized Training",
                             "cssClass": "Popular"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "text": "Learn How to be a Fullstack Developer"
                         }
                     ]
                 },
