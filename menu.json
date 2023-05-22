@@ -505,6 +505,17 @@
                             "cssClass": "ignore"
                         }
                     ]
+                },
+                {
+                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
+                    "navigateUrlOnMobileOnly": true,
+                    "text": "SSW Internship Programs",
+                    "children": [
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "text": "Full stack Developer"
+                        }
+                    ]
                 }
             ]
         },
