@@ -583,7 +583,7 @@
                     "breakListBefore": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/SSWUpdatePrevious.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/newsletters",
                             "text": "Newsletters"
                         },
                         {
@@ -745,7 +745,7 @@
                             "text": "Our CEO's Blog"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/SSWUpdatePrevious.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/newsletters",
                             "text": "Newsletters"
                         }
                     ]
