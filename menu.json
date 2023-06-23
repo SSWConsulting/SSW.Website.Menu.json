@@ -300,12 +300,12 @@
             "groupImageUrl": "Menu-Banner-Products.png",
             "children": [
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Products/Default.aspx#filter=.all%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/products",
                     "navigateUrlOnMobileOnly": true,
                     "text": "All Products",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Products/Default.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/products",
                             "text": "See All Products"
                         }
                     ]
