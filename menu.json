@@ -300,12 +300,12 @@
             "groupImageUrl": "Menu-Banner-Products.png",
             "children": [
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Products/Default.aspx#filter=.all%3Anot(.decommissioned)",
+                    "navigateUrl": "https://www.ssw.com.au/products",
                     "navigateUrlOnMobileOnly": true,
                     "text": "All Products",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Products/Default.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/products",
                             "text": "See All Products"
                         }
                     ]
@@ -421,7 +421,7 @@
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "navigateUrl": "https://www.ssw.com.au/training/internship-fullstack",
                             "text": "Learn How to be a Fullstack Developer"
                         }
                     ]
@@ -516,7 +516,7 @@
                     "text": "SSW Internship Programs",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "navigateUrl": "https://www.ssw.com.au/training/internship-fullstack",
                             "text": "Full Stack Developer"
                         }
                     ]
@@ -705,7 +705,7 @@
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Employment/",
+                            "navigateUrl": "https://www.ssw.com.au/employment/",
                             "text": "Employment Opportunities",
                             "cssClass": "Popular"
                         }
