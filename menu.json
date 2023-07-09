@@ -421,7 +421,7 @@
                             "cssClass": "Popular"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "navigateUrl": "https://www.ssw.com.au/training/internship-fullstack",
                             "text": "Learn How to be a Fullstack Developer"
                         }
                     ]
@@ -516,7 +516,7 @@
                     "text": "SSW Internship Programs",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/training/fullstack",
+                            "navigateUrl": "https://www.ssw.com.au/training/internship-fullstack",
                             "text": "Full Stack Developer"
                         }
                     ]
