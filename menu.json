@@ -374,7 +374,7 @@
                     "breakListBefore": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Rewards/",
+                            "navigateUrl": "https://www.ssw.com.au/products/rewards",
                             "target": "_blank",
                             "text": "SSW Rewards",
                             "cssClass": "ignore"
