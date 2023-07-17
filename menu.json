@@ -724,6 +724,10 @@
                             "navigateUrl": "https://www.ssw.com.au/ssw/Testimonials/default.aspx",
                             "text": "Testimonials"
                         }
+                        {
+                            "navigateUrl": "https://ssw.com.au/industry/finance",
+                            "text": "Finance"
+                        }
                     ]
                 },
                 {
