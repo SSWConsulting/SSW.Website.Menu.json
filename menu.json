@@ -152,10 +152,6 @@
                             "text": "Pay Per Click"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Educational/",
-                            "text": "Educational Industry"
-                        },
-                        {
                             "navigateUrl": "https://www.ssw.com.au/consulting/security",
                             "text": "Security"
                         },
@@ -723,6 +719,14 @@
                         {
                             "navigateUrl": "https://www.ssw.com.au/ssw/Testimonials/default.aspx",
                             "text": "Testimonials"
+                        },
+                        {
+                            "navigateUrl": "https://ssw.com.au/industry/finance",
+                            "text": "Finance"
+                        },
+                        {
+                            "navigateUrl": "https://www.ssw.com.au/industry/educational",
+                            "text": "Educational"
                         }
                     ]
                 },
