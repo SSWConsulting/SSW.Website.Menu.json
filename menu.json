@@ -429,7 +429,7 @@
                     "text": "1-Day Training",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Angular-Superpowers-Tour.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/training/angular-superpowers-tour",
                             "text": "Angular Superpowers Tour"
                         },
                         {
