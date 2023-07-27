@@ -725,6 +725,10 @@
                             "text": "Finance"
                         },
                         {
+                            "navigateUrl": "https://ssw.com.au/industry/non-profit",
+                            "text": "Non-Profit"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/industry/educational",
                             "text": "Educational"
                         }
