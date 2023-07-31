@@ -360,7 +360,7 @@
                             "target": "_blank",
                             "text": "SmashingBarrier",
                             "cssClass": "ignore"
-                        }                        
+                        }
                     ]
                 },
                 {
@@ -437,7 +437,7 @@
                             "text": "Azure Superpowers Tour"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Clean-Architecture-Superpowers-Tour.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/events/clean-architecture-superpowers-tour",
                             "text": "Clean Architecture Superpowers Tour"
                         },
                         {
@@ -546,7 +546,6 @@
                         }
                     ]
                 },
-
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Live/",
                     "navigateUrlOnMobileOnly": true,
@@ -559,7 +558,6 @@
                         }
                     ]
                 },
-                
                 {
                     "navigateUrl": "https://fireusergroup.com/",
                     "navigateUrlOnMobileOnly": true,
@@ -571,7 +569,6 @@
                         }
                     ]
                 },
-                
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/",
                     "navigateUrlOnMobileOnly": true,
@@ -690,7 +687,7 @@
                     ]
                 },
                 {
-                    "text": "Who We Are",                
+                    "text": "Who We Are",
                     "navigateUrl": "https://www.ssw.com.au/people/",
                     "navigateUrlOnMobileOnly": true,
                     "breakListBefore": true,
@@ -735,7 +732,7 @@
                     ]
                 },
                 {
-                    "text": "Our Blogs",                
+                    "text": "Our Blogs",
                     "breakListBefore": true,
                     "navigateUrl": "https://blog.ssw.com.au/",
                     "navigateUrlOnMobileOnly": true,
@@ -759,7 +756,7 @@
                     ]
                 },
                 {
-                    "text": "Where To Find Us",                
+                    "text": "Where To Find Us",
                     "breakListBefore": true,
                     "navigateUrl": "https://www.ssw.com.au/offices",
                     "navigateUrlOnMobileOnly": true,
