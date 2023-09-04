@@ -668,11 +668,11 @@
             "children": [
                 {
                     "text": "Why Us",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/company/about-us",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/company/about-us",
                             "text": "About Us",
                             "cssClass": "Popular"
                         },
@@ -706,11 +706,11 @@
                 },
                 {
                     "text": "Who We Work With",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
+                    "navigateUrl": "https://www.ssw.com.au/company/clients",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
+                            "navigateUrl": "https://www.ssw.com.au/company/clients",
                             "text": "Our Clients' Stories"
                         },
                         {
