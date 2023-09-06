@@ -738,7 +738,7 @@
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/News/",
+                            "navigateUrl": "https://www.ssw.com.au/company/news/",
                             "text": "News & Press"
                         },
                         {
