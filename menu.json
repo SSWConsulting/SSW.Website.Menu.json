@@ -408,7 +408,7 @@
                             "text": "See All Events"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Professional-Tailored-Scrum.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/events/professional-tailored-scrum-training",
                             "text": "Professional Tailored Scrum Training"
                         },
                         {
@@ -668,11 +668,11 @@
             "children": [
                 {
                     "text": "Why Us",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
+                    "navigateUrl": "https://www.ssw.com.au/company/about-us",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/AboutUs.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/company/about-us",
                             "text": "About Us",
                             "cssClass": "Popular"
                         },
@@ -706,11 +706,11 @@
                 },
                 {
                     "text": "Who We Work With",
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
+                    "navigateUrl": "https://www.ssw.com.au/company/clients",
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/Clients",
+                            "navigateUrl": "https://www.ssw.com.au/company/clients",
                             "text": "Our Clients' Stories"
                         },
                         {
@@ -738,7 +738,7 @@
                     "navigateUrlOnMobileOnly": true,
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/News/",
+                            "navigateUrl": "https://www.ssw.com.au/company/news/",
                             "text": "News & Press"
                         },
                         {
@@ -790,7 +790,7 @@
                             "text": "SSW Strasbourg - France"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Company/ContactUs.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/company/contact-us",
                             "text": "Contact Us",
                             "cssClass": "Popular"
                         }
