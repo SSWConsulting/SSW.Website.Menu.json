@@ -399,12 +399,12 @@
             "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Training.png",
             "children": [
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/?upcomingeventsonly=false",
+                    "navigateUrl": "https://www.ssw.com.au/events",
                     "navigateUrlOnMobileOnly": true,
                     "text": "All Events",
                     "children": [
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
+                            "navigateUrl": "https://www.ssw.com.au/events",
                             "text": "See All Events"
                         },
                         {
@@ -423,7 +423,7 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
+                    "navigateUrl": "https://www.ssw.com.au/events",
                     "navigateUrlOnMobileOnly": true,
                     "breakListBefore": true,
                     "text": "1-Day Training",
@@ -451,7 +451,7 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
+                    "navigateUrl": "https://www.ssw.com.au/events",
                     "navigateUrlOnMobileOnly": true,
                     "text": "2-Day Training",
                     "children": [
@@ -466,7 +466,7 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
+                    "navigateUrl": "https://www.ssw.com.au/events",
                     "navigateUrlOnMobileOnly": true,
                     "text": "Hack Days",
                     "breakListBefore": true,
@@ -489,7 +489,7 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/?videoonly=true%26upcomingeventsonly=true",
+                    "navigateUrl": "https://www.ssw.com.au/events",
                     "navigateUrlOnMobileOnly": true,
                     "text": "Training Services",
                     "breakListBefore": true,
@@ -507,7 +507,7 @@
                     ]
                 },
                 {
-                    "navigateUrl": "https://www.ssw.com.au/ssw/Events/",
+                    "navigateUrl": "https://www.ssw.com.au/events",
                     "navigateUrlOnMobileOnly": true,
                     "text": "SSW Internship Programs",
                     "children": [
