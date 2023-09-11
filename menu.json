@@ -2,7 +2,7 @@
     "menuItems": [
         {
             "text": "Services",
-            "groupImageUrl": "Menu-Banner-Services.png",
+            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Services.png",
             "children": [
                 {
                     "text": "All Services",
@@ -293,7 +293,7 @@
         },
         {
             "text": "Products",
-            "groupImageUrl": "Menu-Banner-Products.png",
+            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Products.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/products",
@@ -396,7 +396,7 @@
         },
         {
             "text": "Training",
-            "groupImageUrl": "Menu-Banner-Training.png",
+            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Training.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/Events/?upcomingeventsonly=false",
@@ -521,7 +521,7 @@
         },
         {
             "text": "User Group",
-            "groupImageUrl": "Menu-Banner-UserGroup.png",
+            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-UserGroup.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/NETUG",
@@ -597,7 +597,7 @@
         },
         {
             "text": "Rules",
-            "groupImageUrl": "Menu-Banner-Standards.png",
+            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Standards.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/rules/",
@@ -664,7 +664,7 @@
         },
         {
             "text": "About Us",
-            "groupImageUrl": "Menu-Banner-AboutUs.png",
+            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-AboutUs.png",
             "children": [
                 {
                     "text": "Why Us",

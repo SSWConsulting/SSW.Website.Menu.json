@@ -37,7 +37,7 @@
 						"type": "string",
 						"default": "",
 						"examples": [
-							"Menu-Banner-Services.png"
+							"https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-AboutUs.png"
 						],
 						"pattern": "^.*$"
 					},
