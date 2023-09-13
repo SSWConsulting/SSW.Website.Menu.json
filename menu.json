@@ -44,6 +44,10 @@
                             "text": "React"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/consulting/nextjs",
+                            "text": "Next.js"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/consulting/vue",
                             "text": "Vue.js"
                         },
