@@ -45,6 +45,10 @@
                             "text": "React"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/consulting/nextjs",
+                            "text": "Next.js"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/consulting/vue",
                             "text": "Vue.js"
                         },
@@ -415,7 +419,7 @@
                             "text": "Professional Tailored Scrum Training"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/Events/Training/Training-Options.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/events/customized-courses",
                             "text": "Customized Training",
                             "cssClass": "Popular"
                         },
