@@ -2,7 +2,8 @@
     "menuItems": [
         {
             "text": "Services",
-            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Services.png",
+            "groupImageUrl": "Menu-Banner-Services.png",
+            "groupImageUrlWeb": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Services.png",
             "children": [
                 {
                     "text": "All Services",
@@ -293,7 +294,8 @@
         },
         {
             "text": "Products",
-            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Products.png",
+            "groupImageUrl": "Menu-Banner-Products.png",
+            "groupImageUrlWeb": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Products.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/products",
@@ -396,7 +398,8 @@
         },
         {
             "text": "Training",
-            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Training.png",
+            "groupImageUrl": "Menu-Banner-Training.png",
+            "groupImageUrlWeb": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Training.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/events",
@@ -521,7 +524,8 @@
         },
         {
             "text": "User Group",
-            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-UserGroup.png",
+            "groupImageUrl": "Menu-Banner-UserGroup.png",
+            "groupImageUrlWeb": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-UserGroup.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/ssw/NETUG",
@@ -597,7 +601,8 @@
         },
         {
             "text": "Rules",
-            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Standards.png",
+            "groupImageUrl": "Menu-Banner-Standards.png",
+            "groupImageUrlWeb": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-Standards.png",
             "children": [
                 {
                     "navigateUrl": "https://www.ssw.com.au/rules/",
@@ -664,7 +669,8 @@
         },
         {
             "text": "About Us",
-            "groupImageUrl": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-AboutUs.png",
+            "groupImageUrl": "Menu-Banner-AboutUs.png",
+            "groupImageUrlWeb": "https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-AboutUs.png",
             "children": [
                 {
                     "text": "Why Us",

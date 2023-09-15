@@ -37,6 +37,16 @@
 						"type": "string",
 						"default": "",
 						"examples": [
+							"Menu-Banner-AboutUs.png"
+						],
+						"pattern": "^.*$"
+					},
+					"groupImageUrlWeb": {
+						"$id": "#root/menuItems/items/groupImageUrlWeb", 
+						"title": "Groupimageurlweb", 
+						"type": "string",
+						"default": "",
+						"examples": [
 							"https://raw.githubusercontent.com/SSWConsulting/SSW.MegaMenu/main/lib/assets/images/Menu-Banner-AboutUs.png"
 						],
 						"pattern": "^.*$"
