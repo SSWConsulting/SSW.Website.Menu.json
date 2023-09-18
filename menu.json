@@ -196,6 +196,10 @@
                             "cssClass": "Popular"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/consulting/process-mining",
+                            "text": "Process Mining"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/consulting/cms",
                             "text": "CMS - Content Management Systems"
                         }
