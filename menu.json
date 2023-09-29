@@ -133,6 +133,10 @@
                             "text": "AI and Machine Learning"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/consulting/chatbots",
+                            "text": "Website Chatbots"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/consulting/gpt",
                             "text": "ChatGPT and GPT-4"
                         },
