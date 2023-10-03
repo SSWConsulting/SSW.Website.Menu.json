@@ -195,6 +195,10 @@
                             "cssClass": "Popular"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/consulting/fabric",
+                            "text": "Fabric"
+                        },
+                        {
                             "navigateUrl": "https://www.ssw.com.au/consulting/power-platform",
                             "text": "Power Platform",
                             "cssClass": "Popular"
