@@ -553,15 +553,15 @@
                             "text": "Sydney .NET UG"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Canberra.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/netug/canberra",
                             "text": "Canberra .NET UG"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Melbourne.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/netug/melbourne",
                             "text": "Melbourne .NET UG"
                         },
                         {
-                            "navigateUrl": "https://www.ssw.com.au/ssw/NETUG/Brisbane.aspx",
+                            "navigateUrl": "https://www.ssw.com.au/netug/brisbane",
                             "text": "Brisbane Full Stack UG"
                         }
                     ]
