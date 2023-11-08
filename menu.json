@@ -740,6 +740,10 @@
                             "text": "Testimonials"
                         },
                         {
+                            "navigateUrl": "https://www.ssw.com.au/company/partners",
+                            "text": "Partners"
+                        },
+                        {
                             "navigateUrl": "https://ssw.com.au/industry/finance",
                             "text": "Finance"
                         },
